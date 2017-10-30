@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2015_1_7", "2015_1_7\2015_1_7.csproj", "{431BEBAB-BF96-4813-9297-3B35A443F422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		123|Any CPU = 123|Any CPU
+		123|x64 = 123|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.123|Any CPU.ActiveCfg = 123|Any CPU
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.123|Any CPU.Build.0 = 123|Any CPU
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.123|x64.ActiveCfg = 123|x64
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.123|x64.Build.0 = 123|x64
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Debug|x64.ActiveCfg = Debug|x64
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Debug|x64.Build.0 = Debug|x64
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Release|x64.ActiveCfg = Release|x64
+		{431BEBAB-BF96-4813-9297-3B35A443F422}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

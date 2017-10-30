@@ -1,0 +1,59 @@
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\2015_1_7.exe.config
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\2015_1_7.exe
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\2015_1_7.pdb
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.GPU.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.ML.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OCR.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OpenCL.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.Stitching.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.UI.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.VideoStab.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.Util.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\ZedGraph.dll
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.GPU.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.ML.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OCR.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OpenCL.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.Stitching.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.UI.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.VideoStab.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\bin\x64\123\Emgu.Util.xml
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\obj\x64\123\_2015_1_7.Form1.resources
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\obj\x64\123\_2015_1_7.Properties.Resources.resources
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.csproj.GenerateResource.Cache
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.exe
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.pdb
+C:\Users\userw\documents\visual studio 2012\Projects\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.csprojResolveAssemblyReference.cache
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\2015_1_7.exe.config
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.exe
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.pdb
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\2015_1_7.exe
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\2015_1_7.pdb
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.GPU.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.ML.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OCR.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OpenCL.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.Stitching.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.UI.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.VideoStab.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.Util.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\ZedGraph.dll
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.GPU.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.ML.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OCR.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.OpenCL.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.Stitching.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.UI.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.CV.VideoStab.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\Emgu.Util.xml
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.csprojResolveAssemblyReference.cache
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\_2015_1_7.Form1.resources
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\_2015_1_7.Properties.Resources.resources
+C:\Users\userw\Desktop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.csproj.GenerateResource.Cache
+E:\大學作品集\2017_DeskTop\以前的作品\2015_1_7\2015_1_7\bin\x64\123\2015_1_7.exe.config
+E:\大學作品集\2017_DeskTop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.exe
+E:\大學作品集\2017_DeskTop\以前的作品\2015_1_7\2015_1_7\obj\x64\123\2015_1_7.pdb
